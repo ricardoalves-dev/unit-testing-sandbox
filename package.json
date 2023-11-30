@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoalves-dev/unit-testing-sandbox.git"
+  },
+  "author": "Ricardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardoalves-dev/unit-testing-sandbox/issues"
+  },
+  "homepage": "https://github.com/ricardoalves-dev/unit-testing-sandbox#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
